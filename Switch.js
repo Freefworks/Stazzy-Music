@@ -1,0 +1,1 @@
+var x = 1; function switchImg() {if (x == 1) {document.getElementById("imgToSwitch").src = "28 Tambourine TP.png"; x++;} else if (x == 2) {document.getElementById("imgToSwitch").src = "29 Keyboard Criminal TP.png"; x++;} else if (x == 3) {document.getElementById("imgToSwitch").src = "4 Aspiring Musician TP.png"; x = 1;}}
