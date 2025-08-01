@@ -16,5 +16,6 @@ var sites = [
 'music-15.html',
 'music-16.html',
 'music-17.html',
-'music-18.html'
+'music-18.html',
+'music-19.html'
 ]; function randomSite() {var i = parseInt(Math.random() * sites.length); location.href = sites[i];}
