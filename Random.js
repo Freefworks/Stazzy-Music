@@ -35,5 +35,13 @@ var sites = [
 'music-34.html',
 'music-35.html',
 'music-36.html',
-'music-37.html'
+'music-37.html',
+'music-38.html',
+'music-39.html',
+'music-40.html',
+'music-41.html',
+'music-42.html',
+'music-43.html',
+'music-44.html',
+'music-45.html'
 ]; function randomSite() {var i = parseInt(Math.random() * sites.length); location.href = sites[i];}
